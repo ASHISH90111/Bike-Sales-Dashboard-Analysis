@@ -81,7 +81,7 @@ Bike-Sales-Dashboard/
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot inside repo)
+
 
 ```
 ![Dashboard Preview](Screenshot 2026-02-06 170742.png  )
