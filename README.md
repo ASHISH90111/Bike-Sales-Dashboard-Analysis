@@ -66,9 +66,7 @@ The dashboard provides interactive analysis of:
 ```
 Bike-Sales-Dashboard/
 │
-├── dataset.xlsx
-├── cleaned_data.xlsx
-├── dashboard.xlsx
+├── BikeSalesDataset.xlsx
 └── README.md
 ```
 
