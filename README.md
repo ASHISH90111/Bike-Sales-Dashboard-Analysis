@@ -65,7 +65,7 @@ The dashboard provides interactive analysis of:
 ## 📂 Project Structure
 ```
 Bike-Sales-Dashboard/
-│
+├──project_dataset_raw.xlsx
 ├── BikeSalesDataset.xlsx
 └── README.md
 ```
