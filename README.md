@@ -82,10 +82,7 @@ Bike-Sales-Dashboard/
 
 ## 📷 Dashboard Preview
 
-
-```
-![Dashboard Preview](Screenshot 2026-02-06 170742.png  )
-```
+![Dashboard Preview](Screenshot%202026-02-06%20170742.png)
 
 ---
 
